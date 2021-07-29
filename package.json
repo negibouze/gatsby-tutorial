@@ -1,13 +1,14 @@
 {
-  "name": "my-gatsby-site",
+  "name": "gatsby-trial",
   "version": "1.0.0",
   "private": true,
-  "description": "My Gatsby Site",
-  "author": "Yoshiaki Itakura",
+  "description": "My first Gatsby project",
+  "author": "Yoshiaki Itakura (https://github.com/negibouze)",
   "keywords": [
     "gatsby"
   ],
   "scripts": {
+    "dev": "gatsby develop",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
