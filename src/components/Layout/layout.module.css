@@ -21,3 +21,9 @@
 .nav-link-text {
   color: #000;
 }
+
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+}
