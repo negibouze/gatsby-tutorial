@@ -23,8 +23,8 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    cd gatsby-trial/
+    npm run dev
     ```
 
 3.  **Open the code and start customizing!**
